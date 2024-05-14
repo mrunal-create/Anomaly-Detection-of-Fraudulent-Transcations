@@ -4,8 +4,10 @@
 The project concerns the anomaly detection in credit cards transactions using machine learning models and Autoencoders. The main aim of this project is predict whether a given transaction was a fraud or not. The analysis includes data analysis, data preparation and creation model by using Isolation Forest, Local Outlier Factor, Support Vector Machine (OneClassSVM) algorithms and autoencoder model.
 
 # Dataset
-The dataset contains transactions made by credit cards in two days in 2013 by European cardholders and contains frauds as well. It comes from Kaggle and can be find here.
+The dataset contains transactions made by credit cards in two days in 2013 by European cardholders and contains frauds as well. It comes from Kaggle and can be find here. 
+https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 
+ 
 # Motivation
 The aim of this project is predict whether a given transaction was a fraud. The frauds in the credit cards industry are stealing or using stolen cards, or take more an aggressive form such as account takeover, counterfeiting and much more. The magnitude of credit card frauds is growing larger each day due to ever-increasing online transactions. Anomaly detection is an unsupervised data processing technique to detect anomalies from the dataset. Anomalies are data points that stand out amongst other data points in the dataset and do not fit the normal behavior in the data. These data points or observations deviate from the dataset’s normal behavioral patterns. The anomaly detection is very useful to detect fraud transactions just like in our case.
 
