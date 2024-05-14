@@ -1,1 +1,1 @@
-Hi
+The dataset contains transactions made by credit cards in two days in 2013 by European cardholders and contains frauds as well. It comes from Kaggle and can be find here. https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
